@@ -1,0 +1,7 @@
+[build]
+language = "html"
+framework = "static-site"
+installCommand = ""
+buildCommand = ""
+startCommand = ""
+outputDirectory = "."
